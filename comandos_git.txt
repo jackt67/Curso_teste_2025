@@ -1,5 +1,6 @@
 git init . -> cria um repositorio git na pasta atual
 git status -> mostra o status do trabalho de cada arquivo.
 git add -> adiciona aquivo para ser comitado.
-git commint -m "msg" -> faz commit do ue estava para ser comitado
+git commit -m "msg" -> faz commit do ue estava para ser comitado
+git log -> mostra todo o histórico de commit.
 
