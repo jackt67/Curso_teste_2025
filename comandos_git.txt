@@ -6,3 +6,5 @@ git log -> mostra todo o histórico de commit.
 
 git config - -global user.name “Seu nome”
 git config - -global user.email “seu@email”
+
+teste
