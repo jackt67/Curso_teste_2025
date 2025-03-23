@@ -1,1 +1,5 @@
 esse arquivo contem informações dos comandos secundários.
+
+teste
+teste
+teste
